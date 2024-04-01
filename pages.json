@@ -13,6 +13,20 @@
             "style" : {}
         }
     ],
+    
+    "subPackages":[{
+      "root":"subpackge",
+      "pages":[{
+                    "path" : "calculator/caculator",
+                    "style" : {}
+                }
+                ,{
+                    "path" : "calender/calender",
+                    "style" : {}
+                }
+            ]
+    }],
+    
 	"globalStyle": {
 		"navigationBarTextStyle": "white",
 		"navigationBarTitleText": "日记小程序",
